@@ -9,3 +9,5 @@ __pycache__/
 *.safetensors
 data/
 checkpoints/
+CLAUDE.md
+CLAUDE.local.md
