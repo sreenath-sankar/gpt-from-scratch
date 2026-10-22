@@ -11,3 +11,8 @@ dependencies = [
     "tiktoken>=0.14.0",
     "torch>=2.14.1",
 ]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.1.1",
+]
